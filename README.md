@@ -1,3 +1,3 @@
 # Hotel_ASSM
-Test 1 
-int 
+Test 2
+int main 
